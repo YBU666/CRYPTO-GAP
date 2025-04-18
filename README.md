@@ -16,6 +16,13 @@ CryptoGap+ is an advanced cryptocurrency arbitrage and analysis tool that helps 
 - **Opportunity Tracking**: Keep track of the last seen arbitrage opportunity
 - **Detailed Coin Analysis**: Get comprehensive analysis for specific coins including price trends and trading volume
 
+## Screeshots
+
+![](https://github.com/YBU666/CRYPTO-GAP/blob/main/cg1.png?raw=true)
+![](https://github.com/YBU666/CRYPTO-GAP/blob/main/cg2.png?raw=true)
+![](https://github.com/YBU666/CRYPTO-GAP/blob/main/cg3.png?raw=true)
+![](https://github.com/YBU666/CRYPTO-GAP/blob/main/cg4.png?raw=true)
+
 ## Installation
 
 ### Prerequisites

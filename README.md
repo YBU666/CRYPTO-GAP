@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created with ❤️ for crypto traders and enthusiasts
+Created with ❤️ for crypto traders and enthusiasts.
